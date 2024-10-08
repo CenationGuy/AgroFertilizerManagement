@@ -1,0 +1,19 @@
+.bodyy {
+  /* background: url('../img/demo.jpg'); */
+  background-color: whitesmoke;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: auto;
+
+}
+
+
+
+.wrapper{
+width: 350px; padding: 20px;
+margin: auto;
+margin-top: 80px;
+background-color: #ceccb8;
+border-radius: 20px;
+}
